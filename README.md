@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dgpacheco78/calculadora/blob/main/tablas.jpg">
 
-Objetivo: Generar una calculadora utilizando JavaScritp y DOM para calcular el valor de una resistencia tomando en cuenta los colores de sus bandas.
+Objetivo: Generar una calculadora utilizando JavaScritp y DOM para determinar el valor de una resistencia tomando en cuenta los colores de sus bandas.
 
 Especificaciones:
 <ol>
@@ -10,3 +10,5 @@ Especificaciones:
   <li>Seleccionar el color de cada banda (ver tabla)</li>
   <li>Determinar el valor de la resistencia enterminos de Kilo Ohms o Mega Ohms <b>Ω</b></li>
 </ol>
+
+Fecha de entrega: Viernes 4.
